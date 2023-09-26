@@ -8,6 +8,8 @@
 
 Страница отображает в качестве ознакомления некоторые библиотеки и проекты с которыми предстоит познакомиться в процессе обучения.
 
+### Скриншот выполненной работы:
+![Desktop screenshot](./screenshot/screenshot.png)
 ---
 ## ***Используемые технологии:***
 ### HTML
@@ -18,6 +20,5 @@
 * Псевдоклассы CSS
 * Анимация элементов
 
-![Desktop screenshot](./screenshot/screenshot.png)
-
+## Ссылка на GitHub Pages
 https://sibisov-artem.github.io/first-project/
