@@ -10,9 +10,13 @@
 
 ---
 ## ***Ссылка на выполненную работу на GitHub Pages:***
-https://sibisov-artem.github.io/first-project/
-<!-- ### *Скриншот выполненной работы:*
-![Desktop screenshot](./screenshot/screenshot.png) -->
+**https://sibisov-artem.github.io/first-project/**
+
+---
+
+### <ins>*Скриншот выполненной работы:*<ins>
+![Desktop screenshot](./screenshot/screenshot.png)
+
 ---
 
 ## ***Используемые технологии:***
